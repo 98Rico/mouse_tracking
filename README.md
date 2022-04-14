@@ -13,10 +13,10 @@ Put the video, the python code and the beb.wav fil in the same folder.
 
 ## Libraries Required:
 
-pyautogui --> to get the x-y coordinates
-tkinter --> for the buttons boxes (start, explore)
-keyboard --> To use the keyboard 
-time --> To use the delay 'sleep'
-pygame --> To use the "beeb.wav" file
-cv2 --> To show each frames of the video
-numpy --> To save the data as .csv files
+pyautogui --> to get the x-y coordinates \
+tkinter --> for the buttons boxes (start, explore) \
+keyboard --> To use the keyboard \
+time --> To use the delay 'sleep' \
+pygame --> To use the "beeb.wav" file \
+cv2 --> To show each frames of the video \
+numpy --> To save the data as .csv files 
